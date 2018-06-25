@@ -8,9 +8,9 @@
 .flex-container > div {
   background-color: #ECFEFF;
   width: 400px;
-  height: 600px;
+  height: auto;
   border: 1px solid;
-  margin: auto;
+  margin: 20px;
   padding: 10px;
   border-radius: 20px;
 }
